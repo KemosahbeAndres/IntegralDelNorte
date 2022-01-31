@@ -1,0 +1,11 @@
+{
+    "name": "andres/api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andres Cubillos",
+            "email": "andrestj1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
