@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T15:11:38.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="M-P9RPectKwy7c7fdIu4" version="16.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-01T15:11:53.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="P_PGgbo70m4um-bNo8gh" version="16.5.2" type="github" pages="2">
   <diagram id="yAFuGxo5yNmsHVtJD5dn" name="Modelo">
     <mxGraphModel dx="1673" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="qb8Em-1j8m2r2cLZV-c_-93" value="TAREA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="440" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="U8ZKY8nw9VnWneuDvqdr-2" value="Crea / Califica" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qb8Em-1j8m2r2cLZV-c_-5" target="qb8Em-1j8m2r2cLZV-c_-62">
+        <mxCell id="U8ZKY8nw9VnWneuDvqdr-2" value="Crea / Califica / Elimina" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qb8Em-1j8m2r2cLZV-c_-5" target="qb8Em-1j8m2r2cLZV-c_-62">
           <mxGeometry x="-0.3375" width="160" relative="1" as="geometry">
             <mxPoint x="190" y="410" as="sourcePoint" />
             <mxPoint x="350" y="410" as="targetPoint" />
