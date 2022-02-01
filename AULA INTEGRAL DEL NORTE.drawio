@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T16:59:16.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="_xQzLjJs5uR2-26zKfr7" version="16.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-01T16:59:35.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="oJbB44WFK95e2CbBDHeg" version="16.5.2" type="github" pages="2">
   <diagram id="yAFuGxo5yNmsHVtJD5dn" name="Modelo">
-    <mxGraphModel dx="1673" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,15 +268,14 @@
         <mxCell id="U8ZKY8nw9VnWneuDvqdr-31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="qb8Em-1j8m2r2cLZV-c_-93">
           <mxGeometry y="26" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="U8ZKY8nw9VnWneuDvqdr-2" value="Crea / Califica / Elimina" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qb8Em-1j8m2r2cLZV-c_-5" target="qb8Em-1j8m2r2cLZV-c_-62">
+        <mxCell id="U8ZKY8nw9VnWneuDvqdr-2" value="Crea / Califica / Elimina" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qb8Em-1j8m2r2cLZV-c_-5" target="qb8Em-1j8m2r2cLZV-c_-62">
           <mxGeometry x="-0.3375" width="160" relative="1" as="geometry">
             <mxPoint x="365" y="590" as="sourcePoint" />
             <mxPoint x="525" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="325" y="539" />
-              <mxPoint x="635" y="539" />
+              <mxPoint x="290" y="550" />
+              <mxPoint x="635" y="550" />
               <mxPoint x="635" y="620" />
-              <mxPoint x="865" y="620" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
