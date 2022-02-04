@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T19:03:23.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="GsRNbR7zUBJqr1kpWWOw" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-04T19:03:49.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="66IX_jNyn-WFOp-nA6tL" version="16.5.3" type="github" pages="3">
   <diagram id="yAFuGxo5yNmsHVtJD5dn" name="Modelo">
     <mxGraphModel dx="2844" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WetpANcY4I9S8qy4v_EX" name="Casos de Uso">
-    <mxGraphModel dx="1053" dy="4217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="5451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="W1Z-zQPEjcGwga_x3Cv6-0" />
         <mxCell id="W1Z-zQPEjcGwga_x3Cv6-1" parent="W1Z-zQPEjcGwga_x3Cv6-0" />
@@ -1049,7 +1049,7 @@
           <mxGeometry x="329" y="-2511" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jwbsj0S_jMTE62DNXpIK-38" value="&lt;b style=&quot;font-size: 24px&quot;&gt;CASOS DE USO&lt;br&gt;GESTION DE CONTENIDO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="W1Z-zQPEjcGwga_x3Cv6-1">
-          <mxGeometry x="595" y="-2649" width="310" height="40" as="geometry" />
+          <mxGeometry x="601" y="-2660" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W1Z-zQPEjcGwga_x3Cv6-19" value="MODIFY COURSE" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="W1Z-zQPEjcGwga_x3Cv6-1" vertex="1">
           <mxGeometry x="911" y="-2252" width="120" height="60" as="geometry" />
