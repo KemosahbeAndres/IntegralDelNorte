@@ -1,0 +1,5 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "vetur.format.options.useTabs": true,
+    "vetur.format.scriptInitialIndent": true
+}

@@ -1,0 +1,116 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+  }
+#login-container{
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100vw;
+    min-width: 100vw;
+    max-height: 100vh;
+    min-height: 100vh;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.login-card{
+    width: 40vw;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 8px;
+    margin: auto;
+    padding: 1vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.login-card input{
+    border-radius: .25rem;
+}
+a{
+    color: #2c3e50;
+    font-style: normal;
+    text-decoration: none;
+}
+.vue-active-link{
+    background-color: white;
+}
+.vue-active-link:hover{
+    background-color: white !important;
+}
+.container-full{
+    width: 100vw !important;
+    height: 100vh;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: [first] minmax(10rem, 14rem) [second] auto [third];
+    grid-template-rows: [line1] 12% [line2] auto [line3];
+    grid-template-areas: 
+    "leftbar topbar"
+    "leftbar content";
+}
+.grid-topbar{
+    grid-area: topbar;
+}
+.grid-leftbar{
+    grid-area: leftbar;
+}
+.grid-content{
+    grid-area: content;
+}
+.sidebar{
+    background-color: #ececec;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: [col1] minmax(10rem, 14rem) [col2];
+    grid-template-rows: [first] minmax(15rem, 17rem) [second] auto [third] 8rem [end];
+}
+.menu{
+    width: 100%;
+    align-items: stretch;
+    padding: 0;
+    text-decoration: none;
+    list-style-type:none;
+    text-align: center;
+    display: grid;
+    grid-template-columns: [start] auto [end];
+    grid-auto-rows: 4rem;
+}
+.menu .nav-item{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    align-self: center;
+}
+.menu .nav-item .nav-link{
+    height: 100%;
+    padding: 2ex;
+    color: #2c3e50;
+    font-weight: 700;
+    text-align: left;
+    align-self: center;
+    cursor: pointer;
+}
+.menu .nav-item .nav-link:hover{
+    background-color: #dddddd;
+    color: #2c3e50;
+    /* color: white; */
+}
+.menu .bottom-item{
+    background-color: aliceblue;
+
+}
+.userinfo{
+    padding: 1rem;
+}
+.userinfo h3{
+    margin-top: 0.8rem;
+}
+img.circle{
+    border-radius: 50%;
+    max-width: 10rem;
+}

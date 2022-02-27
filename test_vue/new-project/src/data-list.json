@@ -1,0 +1,176 @@
+{
+    
+    "carrers": [
+        {
+            "id": 0,
+            "name": "Enseñanza Media - 1er Ciclo",
+            "desciption": "",
+            "startdate": 0,
+            "enddate": 0,
+            "courses": [1, 2, 3, 4, 5]
+        }
+    ],
+    "courses": [
+        {
+            "id": 0,
+            "name": "Curso de Reposteria",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [0, 1, 6]
+        },
+        {
+            "id": 1,
+            "name": "Lenguaje",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [1, 2, 6]
+        },
+        {
+            "id": 2,
+            "name": "Matematica",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [2, 3, 6]
+        },
+        {
+            "id": 3,
+            "name": "Historia",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [3, 4, 6]
+        },
+        {
+            "id": 4,
+            "name": "Ingles",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [4, 5, 6]
+        },
+        {
+            "id": 5,
+            "name": "Biologia",
+            "startdate": 0,
+            "enddate": 0,
+            "teachers": [0],
+            "students": [1, 2],
+            "modules": [5, 6]
+        }
+    ],
+    "modules": [
+        {
+            "id": 0,
+            "name": "Modulo 01",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 1,
+            "name": "Modulo 02",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 2,
+            "name": "Modulo 03",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 3,
+            "name": "Modulo 04",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 4,
+            "name": "Modulo 05",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 5,
+            "name": "Modulo 06",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        },
+        {
+            "id": 6,
+            "name": "Modulo 07",
+            "code": "",
+            "startdate": 0,
+            "enddate": 0,
+            "resources": [0, 1, 2]
+        }
+    ],
+    "resources": [
+        {
+            "id": 0,
+            "name": "Recurso 01",
+            "type": "",
+            "required": false
+        },
+        {
+            "id": 1,
+            "name": "Recurso 02",
+            "type": "",
+            "required": false
+        },
+        {
+            "id": 2,
+            "name": "Recurso 03",
+            "type": "",
+            "required": false
+        }
+    ],
+    "users": [
+        {
+            "id": 0,
+            "firstname": "Andres",
+            "lastname": "Cubillos",
+            "rut": "19149514",
+            "dv": "4",
+            "phone": "972856292",
+            "email": "andrestj1996@gmail.com"
+        },
+        {
+            "id": 1,
+            "firstname": "Jacob",
+            "lastname": "Cubillos",
+            "rut": "19149514",
+            "dv": "4",
+            "phone": "972856292",
+            "email": "andrestj1996@gmail.com"
+        },
+        {
+            "id": 2,
+            "firstname": "Samuel",
+            "lastname": "Cubillos",
+            "rut": "19149514",
+            "dv": "4",
+            "phone": "972856292",
+            "email": "andrestj1996@gmail.com"
+        }
+    ]
+}
